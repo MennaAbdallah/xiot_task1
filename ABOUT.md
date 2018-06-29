@@ -17,10 +17,26 @@ I've added this part to the ISR of the led toggling.
 ### To display the temperature each 3 seconds
 I used normal timer with an interrupt , as the timer finishes 3 seconds it displays the temperature using serial monitor.
 
-# What I Learned :
+# Lessons From This Project :
 
 1. Integrating header files and code files to use them in main function properly.
 2. Write useful comments as much as possible to make code readable.
 3. Use interrupt , adc and uart all together in the same project.
 
+# Experience with Languages
 
+C/C++
+C#
+Python
+Verilog/ VHDL
+
+## Projects achieved
+1. Pipelined MIPS processor using Verilog
+2. Functions similar to Matlab using C++/OOP (Adding , String cut and concate ).
+3. Social network analysis using python with Kivy framework
+4. Operating system memory allocator using C#
+
+# Experience with Embedded Syetems
+
+I've attended an embedded diploma 
+This project can be considered as my first integrated project
