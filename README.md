@@ -3,4 +3,4 @@
 1. Download proteus https://proteus.soft112.com
 2. Download Simulation file https://github.com/MennaAbdallah/xiot_task1/blob/master/Simulation/xiot%20task1.pdsprj
 3. Press run icon
-![Captue](Capture.png)
+![Capture](Capture.png)
